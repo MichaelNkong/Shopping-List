@@ -7,7 +7,13 @@ span{
     color: red;
 }
 
-div{
 
-    width: 50%;
+div.wrapper{
+text-align: center;
+
+
+}
+div.wrapper div ul li {
+list-style: none;
+
 }
