@@ -8,12 +8,17 @@ span{
 }
 
 
-div.wrapper{
+div{
 text-align: center;
+margin: 15px;
 
 
 }
 div.wrapper div ul li {
 list-style: none;
+
+}
+ a.nav-link{
+    color:white;
 
 }
