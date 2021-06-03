@@ -3,7 +3,7 @@
     text-decoration:none;
 }
 .items .done a span.del{
-    float: right 100%;
+    float: right;
     color: red;
 }
 

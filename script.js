@@ -12,7 +12,7 @@ var input = document.getElementById("add")
         
        if(inputValue() > 0){
             var li = document.createElement("li");
-            li.innerHTML="<a href='#' ><span class='del'>x</span></a>";
+            li.innerHTML="<a href='#' ><span class='del'>delete</span></a>";
             li.className="done";
             li.style.textDecoration="none";
             li.appendChild(document.createTextNode(input.value));
